@@ -30,16 +30,16 @@ const char* server = "maker.ifttt.com";  // IFTTT Server URL
 
 //=====ここから個別に設定が必要な項目=====
 
-const char* ssid = "BCW710J-68BAA-G"; // Wi-FiのSSID
-const char* password = "854778a8a7a58"; // Wi-Fiのパスワード
+const char* ssid = "＊＊＊＊＊＊＊＊＊＊"; // Wi-FiのSSID
+const char* password = "＊＊＊＊＊＊＊＊＊＊"; // Wi-Fiのパスワード
 
-String makerEvent = "Smart_Cat_Toilet"; // Maker Webhooks
-String makerKey = "bNVZKxt7T4HQG10ZY7Yc4t";  // Maker Webhooks
+String makerEvent = "＊＊＊＊＊＊＊＊＊＊"; // Maker Webhooks
+String makerKey = "＊＊＊＊＊＊＊＊＊＊";  // Maker Webhooks
 
 Ambient ambient;
 
-unsigned int channelID = 57758;
-const char* writeKey = "2c694e036102a28e";
+unsigned int channelID = ＊＊＊＊＊＊＊＊＊＊;
+const char* writeKey = "＊＊＊＊＊＊＊＊＊＊";
 
 const int place = 1;  //トイレのユニークナンバー
 
